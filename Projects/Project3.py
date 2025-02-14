@@ -16,7 +16,7 @@ t1.penup()
 t1.goto(0,0)
 t1.pendown()
 t1.color("light blue")
-for i in range ( 450 ):
+for i in range ( 700 ):
     t1.forward(1+i)
     t1.left(120+1)
 
